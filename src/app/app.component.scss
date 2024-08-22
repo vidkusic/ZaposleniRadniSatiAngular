@@ -1,0 +1,47 @@
+.container {
+    width: 80%;
+    margin: auto;
+    margin-top: 5px;
+  }
+  
+  .custom-table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .mat-mdc-table .mat-mdc-header-cell {
+    background-color: #c5bebe;
+    font-weight: bold;
+    text-align: left;
+    border: 1px solid rgb(145, 134, 134);
+  }
+  
+  .mat-mdc-cell {
+    border: 1px solid rgb(192, 182, 182);
+  }
+  
+  td.mat-cell:last-child {
+    text-align: right;
+  }
+  
+  .highlight-row {
+    background-color: #fddcdc; 
+  }
+  
+  .edit-link {
+    color: #007bff;
+    text-decoration: underline;
+  }
+  
+  .edit-link:hover {
+    text-decoration: underline;
+  }
+  
+  .secondThirdRow {
+    text-align: center !important;
+  }
+  
+  
+  h2{
+    text-align: center !important;
+  }
